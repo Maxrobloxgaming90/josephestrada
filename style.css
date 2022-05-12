@@ -1,0 +1,23 @@
+button:hover {
+    background-color: darkblue;
+    cursor: pointer;
+}
+
+body {
+    background-color: darkred;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+h6 {
+    color: white;
+    text-align: center;
+}
